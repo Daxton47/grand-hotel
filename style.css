@@ -74,7 +74,7 @@ body {
     position: fixed;
     width: 40rem;
     height: 100%;
-    background: linear-gradient(to top, rgba(34, 32, 41, 1), rgba(34, 32, 41, .8)), url("/img/nav-bg.jpeg") center no-repeat;
+    background: linear-gradient(to top, rgba(34, 32, 41, 1), rgba(34, 32, 41, .8)), url("https://github.com/Daxton47/grand-hotel/img/nav-bg.jpeg") center no-repeat;
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -216,7 +216,7 @@ body {
     margin-left: 8rem;
     height: 100vh;
     background: linear-gradient(to top, rgba(0, 0, 0, .6), rgba(0, 0, 0, .5)),
-        url(/img/header-2.jpg) center no-repeat;
+        url(https://github.com/Daxton47/grand-hotel/img/header-2.jpg) center no-repeat;
     background-size: cover;
 }
 
